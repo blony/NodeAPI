@@ -1,0 +1,18 @@
+{
+  "name": "APIProject",
+  "version": "1.0.0",
+  "description": "Node.js+MySQL+API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "Bobby",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
